@@ -1,16 +1,14 @@
 ### Hi there 👋
+### My name is Ansh Chawla, I am a Developer and a Tech Enthusiast
 
-<!--
-**anshchawla24/anshchawla24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+### My Tech Stack:
+### C++ // HTML // CSS // Javascript
+### Python // NodeJS // MongoDB
+### Express.js // Web Dev // Backend // Cloud Computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on a web-app using the covid API
+- 🌱 I’m currently learning Backend Infrastructure, Cloud computing and App-Dev
+- ⚡ Fun fact: I love playing the guitar 
