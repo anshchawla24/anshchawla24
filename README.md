@@ -9,7 +9,6 @@
 ### Express.js // Web Dev // Backend // Cloud Computing
 
 
-<br>
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 
