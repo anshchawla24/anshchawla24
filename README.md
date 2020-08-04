@@ -9,6 +9,6 @@
 ### Express.js // Web Dev // Backend // Cloud Computing
 
 
-- 🔭 I’m currently working on a web-app using the covid API
+- 🔭 I’m currently working on back-end apps and infrastructure
 - 🌱 I’m currently learning Backend Infrastructure, Cloud computing and App-Dev
 - ⚡ Fun fact: I love playing the guitar 
