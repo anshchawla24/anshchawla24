@@ -9,6 +9,10 @@
 ### Express.js // Web Dev // Backend // Cloud Computing
 
 
+<br>
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
+
 - 🔭 I’m currently working on back-end apps and infrastructure
 - 🌱 I’m currently learning Backend Infrastructure, Cloud computing and App-Dev
 - ⚡ Fun fact: I love playing the guitar 
