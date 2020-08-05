@@ -20,3 +20,8 @@ Linkedin: https://www.linkedin.com/in/ansh-chawla-33a9b3178/
 Instagram: https://www.instagram.com/ansxxh/
 <br>
 Twitter: https://twitter.com/anshchawla24
+
+<br>
+
+### Github Stats
+[![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=anshchawla24&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
