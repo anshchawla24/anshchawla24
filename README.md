@@ -25,3 +25,7 @@ Twitter: https://twitter.com/anshchawla24
 
 ### Github Stats
 [![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=anshchawla24&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshchawla24&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
