@@ -6,11 +6,10 @@
 ### My Tech Stack:
 ### C++ // HTML // CSS // Javascript
 ### Python // NodeJS // MongoDB
-### Express.js // Web Dev // Backend // Cloud Computing
 
 
-- 🔭 I’m currently working on back-end apps and infrastructure
-- 🌱 I’m currently learning Backend Infrastructure, Cloud computing and App-Dev
+- 🔭 I’m currently working on general software development
+- 🌱 I’m currently learning Python, CyberSecurity and App-Dev
 - ⚡ Fun fact: I love playing the guitar 
 
 
